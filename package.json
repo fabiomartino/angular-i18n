@@ -1,6 +1,12 @@
 {
   "name": "angular-i18n",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "author": "Fabio Martino",
+  "description": "This project is an example of Angular i18n",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabiomartino/angular-i18n.git"
+  },
   "license": "MIT",
   "scripts": {
     "ng": "ng",
