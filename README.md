@@ -1,6 +1,10 @@
 # Angular-i18n
 Angular 5+ i18n AOT example from https://angular.io/guide/i18n
 
+## How to use
+Run `npm run start:it` for Italian
+Run `npm run start:es` for Spanish
+Run `npm run start:fr` for French
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.0.
 
